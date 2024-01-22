@@ -1,0 +1,129 @@
+SEARCH CUI: blood level
+
+Name: Gout
+UI: 90560007
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/90560007
+
+Name: Glucose measurement, blood
+UI: 33747003
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/33747003
+
+Name: Blood gas measurement
+UI: 167018008
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/167018008
+
+Name: Hypertyrosinemia
+UI: 56595005
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/56595005
+
+Name: Blood lead level above reference range
+UI: 407152001
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/407152001
+
+Name: Mineral level in blood outside reference range
+UI: 274866006
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/274866006
+
+Name: Lithium: blood level - finding
+UI: 365739005
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/365739005
+
+Name: Blood viscosity measurement
+UI: 250408005
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/250408005
+
+Name: Blood potassium measurement
+UI: 312468003
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/312468003
+
+Name: Blood ethanol measurement
+UI: 167009006
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/167009006
+
+Name: Blood calcium measurement
+UI: 312472004
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/312472004
+
+Name: pH measurement, arterial
+UI: 27051004
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/27051004
+
+Name: Injury of blood vessels at forearm level
+UI: 210855006
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/210855006
+
+Name: Sodium measurement, blood
+UI: 312469006
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/312469006
+
+Name: Blood magnesium measurement
+UI: 271285000
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/271285000
+
+Name: Injury of blood vessels at ankle and foot level
+UI: 210900007
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/210900007
+
+Name: Fasting blood glucose measurement
+UI: 271062006
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/271062006
+
+Name: Aluminum measurement, blood
+UI: 45144001
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/45144001
+
+Name: pH measurement, venous
+UI: 9456006
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/9456006
+
+Name: Blood ammonia measurement
+UI: 166604007
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/166604007
+
+Name: Finding of abnormal level of heavy metals in blood
+UI: 274891006
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/274891006
+
+Name: Blood glucose level - finding
+UI: 365812005
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/365812005
+
+Name: Blood zinc measurement
+UI: 271284001
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/271284001
+
+Name: Injury of multiple blood vessels at forearm level
+UI: 210860005
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/210860005
+
+Name: Blood copper measurement
+UI: 271287008
+Source Vocabulary: SNOMEDCT_US
+URI: https://uts-ws.nlm.nih.gov/rest/content/2023AB/source/SNOMEDCT_US/271287008
+
+***
+

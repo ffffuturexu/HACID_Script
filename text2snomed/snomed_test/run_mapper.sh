@@ -1,0 +1,1 @@
+python get-codes-for-a-list-of-concepts.py -k 85f3d10c-8df0-4146-8a4c-e9f6a988f988 -i test.txt -o output.txt -s SNOMEDCT_US
